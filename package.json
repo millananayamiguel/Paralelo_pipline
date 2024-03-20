@@ -3,7 +3,8 @@
   "viewportHeight":900,
   "chromeWebSecurity":false,
   "defaultCommanTimeout":1500,
-  "pageLoadTimeout":19000
+  "pageLoadTimeout":19000,
+  "projectId": "9nvyjo"
 
 
 
